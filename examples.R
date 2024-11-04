@@ -12,8 +12,6 @@ library(sf) #data frames with spatial features
 library(mapview) #quick interactive maps
 library(tigris) #us census data downloads
 
-# working directory path (add yours if different)
-#setwd("G:/Shared drives/BDT SEM/2022")
 
 
 #### example 1: trees in Baltimore ####
